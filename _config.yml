@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
+title: Rainbow-box
 subtitle: ''
-description: '这是一个演示站点'
+description: '这是一个分享发现宝藏的小站'
 keywords:
-author: 橘子是橘猫
+author: Primary Tastei
 language: zh-CN
 timezone: ''
 
@@ -100,7 +100,7 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: next
+theme: cards
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
